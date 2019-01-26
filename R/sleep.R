@@ -1,5 +1,5 @@
 # Constants
-url_sleep <- paste0(url_api, "sleep/")
+url_sleep <- paste0(url_api_sleep, "sleep/")
 
 #' Get Sleep Logs
 #'
